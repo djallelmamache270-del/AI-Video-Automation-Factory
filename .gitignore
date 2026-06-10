@@ -1,0 +1,4 @@
+output_videos/
+*TEMP_MPY*
+__pycache__/
+.env
